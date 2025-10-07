@@ -1,0 +1,8 @@
+torch==2.6.0
+transformers==4.54.1
+megatron-core[mlm]==0.13.0
+modelscope==1.25.0
+ms-swift==3.9.0dev
+deepspeed==0.15.4   # 需要打补丁
+flash_attn==2.7.4.post1
+trl==0.16.1
