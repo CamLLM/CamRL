@@ -46,7 +46,7 @@
 
         <details>
         <summary>Critic 网络 loss (点击查看图片)</summary>
-        <p align="center"> <img src="images/rl_critic_loss.png.png" style="width: 85%;" id="title-icon"></p>
+        <p align="center"> <img src="images/rl_critic_loss.png" style="width: 85%;" id="title-icon"></p>
         </details>
 
     4. Actor 策略模型和冻结的 Ref 模型 kl 走势正常
